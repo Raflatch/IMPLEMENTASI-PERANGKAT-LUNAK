@@ -1,5 +1,5 @@
 
-package com.mycompany.tugas_class_diagram_rafael;
+package com.mycompany.tugas_class_diagram;
 
 /**
  *
